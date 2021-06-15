@@ -1,0 +1,13 @@
+OBJ/*.crf
+OBJ/*.d
+OBJ/*.o
+OBJ/*.lst
+OBJ/*.dep
+OBJ/*.axf
+OBJ/*.htm
+OBJ/*.lnp
+OBJ/*.map
+OBJ/*.sct
+USER/DebugConfig/Target_1_STM32F103ZE.dbgconf
+USER/*.uvguix.*
+USER/*.uvoptx
